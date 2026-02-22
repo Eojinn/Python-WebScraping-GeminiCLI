@@ -1,0 +1,18 @@
+2026-02-22 21:45:28.317 | INFO     | __main__:<module>:20 - Loading data from yes24/data/yes24_ai.csv
+2026-02-22 21:45:28.344 | INFO     | __main__:<module>:23 - Data loaded successfully.
+2026-02-22 21:45:28.345 | INFO     | __main__:<module>:29 - Performing initial data inspection.
+2026-02-22 21:45:28.420 | INFO     | __main__:<module>:40 - Starting data cleaning and preprocessing.
+2026-02-22 21:45:28.436 | INFO     | __main__:<module>:55 - Numeric columns converted and cleaned.
+2026-02-22 21:45:28.446 | INFO     | __main__:<module>:66 - Publication date processed and year/month extracted.
+2026-02-22 21:45:28.451 | INFO     | __main__:<module>:72 - Discount rate calculated.
+2026-02-22 21:45:28.451 | INFO     | __main__:<module>:75 - Starting EDA and visualization.
+2026-02-22 21:45:28.933 | INFO     | __main__:<module>:102 - Generated sales_price_distribution.png
+2026-02-22 21:45:29.298 | INFO     | __main__:<module>:115 - Generated top_authors.png
+2026-02-22 21:45:29.638 | INFO     | __main__:<module>:128 - Generated top_publishers.png
+2026-02-22 21:45:29.885 | INFO     | __main__:<module>:143 - Generated books_per_year.png
+2026-02-22 21:45:30.124 | INFO     | __main__:<module>:154 - Generated sales_index_vs_review_count.png
+2026-02-22 21:45:30.364 | INFO     | __main__:<module>:165 - Generated discount_rate_distribution.png
+2026-02-22 21:45:30.953 | INFO     | __main__:<module>:204 - Generated title_wordcloud.png
+2026-02-22 21:45:30.954 | INFO     | __main__:<module>:208 - EDA and visualization completed. Plots saved to yes24/data/plots.
+2026-02-22 21:45:31.231 | INFO     | __main__:<module>:224 - Generated avg_price_per_publisher.png
+2026-02-22 21:45:31.231 | INFO     | __main__:<module>:226 - All analysis and visualization steps completed.
